@@ -1,5 +1,5 @@
 - Hi my username is jppf22 and I'm an aspiring portuguese computer science student.
-- I'm willing to collaborate on projects, if I know what the proposed one entails (wouldn't bet on it since I'm still learning).
+- Open for collaboration, typically work with Python and C++
 - My interests right now are machine learning, data structures and embedded systems.
 - If you've got any useful tips I'm all ears.
 
