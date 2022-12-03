@@ -1,4 +1,4 @@
-- Hi my username is jppf22 and I'm an aspiring portuguese computer science student.
+- Hi I'm João and I'm an aspiring portuguese computer science student.
 - Open for collaboration, typically work with Python and C++
 - My interests right now are machine learning, data structures and embedded systems.
 - If you've got any useful tips I'm all ears.
