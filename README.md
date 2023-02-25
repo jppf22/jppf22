@@ -3,9 +3,7 @@
 
 
 
-- 🌱 I’m currently learning C++ and Python 
-- 📫 You can reach me at **jppf22@live.com**
-- :computer: I also participate in Programming competitions and would like to participate in Hackathons
+
 
 
 <h3 align="left">Connect with me:</h3>
