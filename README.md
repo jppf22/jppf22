@@ -9,4 +9,4 @@
 </ul>
 
 <h3 align="center">Tech Skills</h3>
-[![My Tech Skills](https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cpp,css,debian,docker,figma,firebase,flask,github,gitlab,godot,html,java,js,latex,linux,md,nodejs,p5js,postgres,powershell,py,pytorch,r,react,regex,sublime,sklearn,selenium,ubuntu,vscode&theme=dark&perline=10)](https://skillicons.dev)
+[![My Tech Skills](https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cpp,css,debian,docker,figma,firebase,flask,github,gitlab,godot,html,java,js,latex,linux,md,nodejs,p5js,postgres,powershell,py,pytorch,r,react,regex,sublime,sklearn,selenium,ubuntu,vscode&perline=10)](https://skillicons.dev)
