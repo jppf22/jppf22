@@ -10,6 +10,12 @@
     <li> 🎿🏀🏃⛰ Skiing, basketball, running and hiking (and some others)</li>
 </ul>
 
+<div id="badges">
+<a href="https://www.linkedin.com/in/joao-pp-fernandes/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <h2 align="center">Tech Skills</h2>
 
 <p align="center">
