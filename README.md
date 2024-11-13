@@ -5,7 +5,7 @@
 
 <ul>
     <li> 🎓️ Currently on my 3rd and last year of my bachelor's degree, with a GPA of 16.55 out of 20</li>
-    <li> 🔬 Researching Human-AI Interaction at @GAIPS</li>
+    <li> 🔬 Researching Human-AI Interaction at <a href="https://github.com/GAIPS">GAIPS</a></li>
     <li> 🥇 Participating in the occasional Hackathon and Competition</li>
     <li> 🎿🏀🏃⛰ Skiing, basketball, running and hiking (and some others)</li>
 </ul>
